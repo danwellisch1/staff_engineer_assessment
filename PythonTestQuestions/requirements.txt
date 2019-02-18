@@ -1,0 +1,9 @@
+I use the Visual Studio IDE with the Anaconda distribution and python version as specified below.:
+
+Python version:
+Python 3.6.2 |Anaconda custom (64-bit)| (default, Sep 19 2017, 08:03:39) [MSC v.1900 64 bit (AMD64)] on win32
+
+I have used only the pandas library.
+
+Also, although the test coverage was 100% as all functions are called in this little example, I would use a unit test framework like "nose"
+to verify unit modules as part of my development process.
